@@ -3,4 +3,5 @@ This is a webpage for a local movie theater, which displays its current showings
 
 I included a popover sign-up sheet for receiving special movie deals, and an email form for rewards membership to the cinema. All the styling and functionality are on a single page, using Bootstrap, jquery, and popper.js. 
 
+
 ![Academy Cinemas](academy_cinemas.png)
